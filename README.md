@@ -166,7 +166,7 @@ IRCTC/
 | Hemang Luthra | Team Lead & Full-Stack Developer | [@xHertx](https://github.com/xhertx) |
 | Shaurya Manchanda | UI Designer | [@shyftt](https://github.com/shyftt) |
 | Akshaj Dhawan | Backend Programmer | [@Lerbet](https://github.com/Lerbet) |
-| Hemant Garg | [@hash-29](https://github.com/hash-29) |
+| Hemant Garg | UX Design | [@hash-29](https://github.com/hash-29) |
 
 </div>
 
