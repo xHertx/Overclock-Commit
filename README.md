@@ -163,7 +163,7 @@ IRCTC/
 
 | Name | Role | GitHub |
 |---|---|---|
-| Hemang Luthra | Team Lead & Full-Stack Developer | [@justhemang](https://github.com/justhemang) |
+| Hemang Luthra | Team Lead & Full-Stack Developer | [@xHertx](https://github.com/xhertx) |
 | Shaurya Manchanda | UI Designer | [@shyftt](https://github.com/shyftt) |
 | Akshaj Dhawan | Backend Programmer | [@Lerbet](https://github.com/Lerbet) |
 
